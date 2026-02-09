@@ -159,3 +159,12 @@ This project exposes these components explicitly, demonstrating how deep learnin
 - Regularization
 - Visualization
 - Extension to multi-class classification
+
+## Author
+KARTHIK RAJ PANUGANTI
+
+- GITHUB : https://github.com/KARTHIK1749
+
+- LINKEDIN :https://www.linkedin.com/in/karthik-panuganti666 
+
+**NOTE :** This is made for the deep understanding of mathematical intuition of Neural Network And Building it from scratch.
